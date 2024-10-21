@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usedownub.github.io/usedownub.txt.gz
+Sitemap: https://usedownub.github.io/app/usedownub.txt.gz
+Sitemap: https://usedownub.github.io/assets/usedownub.txt.gz
+Sitemap: https://usedownub.github.io/css/usedownub.txt.gz
+Sitemap: https://usedownub.github.io/includes/usedownub.txt.gz
+Sitemap: https://usedownub.github.io/item/usedownub.txt.gz
+Sitemap: https://usedownub.github.io/src/usedownub.txt.gz
